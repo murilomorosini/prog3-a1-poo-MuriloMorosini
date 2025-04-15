@@ -1,7 +1,7 @@
 # Sistema de Registro e Autenticação de Usuários – PHP POO
 
 **Aluno:** Murilo Morosini  
-**Turma:** Ciencia da Computacao - Campus: Sao Miguel do Oeste
+**Turma:** Ciencia da Computacao - Campus: Sao Miguel do Oeste  
 **Professor:** Leandro Otavio Cordova Vieira  
 **Disciplina:** Programação III – UNOESC
 
