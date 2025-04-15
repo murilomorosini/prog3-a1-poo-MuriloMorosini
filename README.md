@@ -2,7 +2,6 @@
 
 **Aluno:** Murilo Morosini  
 **Turma:** Ciencia da Computacao - Campus: Sao Miguel do Oeste
-
 **Professor:** Leandro Otavio Cordova Vieira  
 **Disciplina:** Programação III – UNOESC
 
